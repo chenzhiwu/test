@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
      NSLog(@"初始化");
+     NSLog(@"第一次提交");
 }
 
 
