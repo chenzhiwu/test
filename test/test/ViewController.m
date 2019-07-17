@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view.
      NSLog(@"初始化");
      NSLog(@"第一次提交");
+    //备注:第二次代码提交之后被回滚了
+     NSLog(@"第三次提交");
 }
 
 
