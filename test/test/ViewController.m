@@ -19,7 +19,6 @@
     // Do any additional setup after loading the view.
      NSLog(@"初始化");
      NSLog(@"第一次提交");
-     NSLog(@"第二次修改");
 }
 
 
